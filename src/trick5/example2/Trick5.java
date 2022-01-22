@@ -1,4 +1,4 @@
-package trick5;
+package trick5.example2;
 
 import java.util.ArrayList;
 import java.util.List;

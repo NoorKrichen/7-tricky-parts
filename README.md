@@ -1,4 +1,4 @@
-# 7-tricky-parts
+# 7-tricky-parts-java
 
 7 java tricky parts may probably face you as java developer
 
